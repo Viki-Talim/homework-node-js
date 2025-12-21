@@ -12,7 +12,7 @@ console.log(c2f(25));
 // ke logira deka temepraturata e niska, od 0 do 22 stepeni ke logira deka temperaturata e normalna i nad 22 stepeni ke logira temperaturata e pokacena
 // Funkcijata treba da go vrati brojot vo stepeni
 const f2c = (fahrenheit) => {
-  const celsius = Math.round(((fahrenheit - 32) * 5) / 9);
+  const celsius = Number((((fahrenheit - 32) * 5) / 9).toFixed(0));
 
   if (celsius < 0) {
     console.log("temperaturata e niska");
