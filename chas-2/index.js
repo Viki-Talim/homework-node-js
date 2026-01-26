@@ -72,7 +72,7 @@ const triStudenti = studenti
 
 console.log(triStudenti);
 
-//? 4. Вкупен просек на студенти кои се од Куманово
+//? 4. Внкупе просек на студенти кои се од Куманово
 console.log("---4---");
 
 const studentiKumanovo = studenti.filter((s) => s.grad === "Kumanovo");

@@ -1,0 +1,107 @@
+[
+  {
+    "reden_broj": 1,
+    "ime": "David",
+    "prezime": "Petrovski",
+    "prosek": 9.2,
+    "grad": "Skopje"
+  },
+  {
+    "reden_broj": 2,
+    "ime": "Ana",
+    "prezime": "Stojanovska",
+    "prosek": 8.5,
+    "grad": "Bitola"
+  },
+  {
+    "reden_broj": 3,
+    "ime": "Stefan",
+    "prezime": "Angelov",
+    "prosek": 7.9,
+    "grad": "Ohrid"
+  },
+  {
+    "reden_broj": 4,
+    "ime": "Marija",
+    "prezime": "Jovanova",
+    "prosek": 10,
+    "grad": "Stip"
+  },
+  {
+    "reden_broj": 5,
+    "ime": "Igor",
+    "prezime": "Nikolov",
+    "prosek": 6.8,
+    "grad": "Kumanovo"
+  },
+  {
+    "reden_broj": 6,
+    "ime": "Elena",
+    "prezime": "Trajkovska",
+    "prosek": 9.5,
+    "grad": "Veles"
+  },
+  {
+    "reden_broj": 7,
+    "ime": "Darko",
+    "prezime": "Kostov",
+    "prosek": 8.1,
+    "grad": "Tetovo"
+  },
+  {
+    "reden_broj": 8,
+    "ime": "Kristina",
+    "prezime": "Milevska",
+    "prosek": 7.4,
+    "grad": "Prilep"
+  },
+  {
+    "reden_broj": 9,
+    "ime": "Filip",
+    "prezime": "Ristevski",
+    "prosek": 8.8,
+    "grad": "Kavadarci"
+  },
+  {
+    "reden_broj": 10,
+    "ime": "Simona",
+    "prezime": "Georgieva",
+    "prosek": 9.1,
+    "grad": "Strumica"
+  },
+  {
+    "reden_broj": 11,
+    "ime": "Bojan",
+    "prezime": "Ivanov",
+    "prosek": 7.2,
+    "grad": "Gostivar"
+  },
+  {
+    "reden_broj": 12,
+    "ime": "Katerina",
+    "prezime": "Vasilevska",
+    "prosek": 9.9,
+    "grad": "Kocani"
+  },
+  {
+    "reden_broj": 13,
+    "ime": "Aleksandar",
+    "prezime": "Dimov",
+    "prosek": 8.3,
+    "grad": "Gevgelija"
+  },
+  {
+    "reden_broj": 14,
+    "ime": "Viktorija",
+    "prezime": "Talim",
+    "prosek": 7,
+    "grad": "Prilep"
+  },
+  {
+    "reden_broj": 15,
+    "ime": "Nikola",
+    "prezime": "Tasev",
+    "prosek": 8,
+    "grad": "Kriva Palanka"
+  }
+]
