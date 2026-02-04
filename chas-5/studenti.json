@@ -91,17 +91,17 @@
     "grad": "Gevgelija"
   },
   {
-    "reden_broj": 14,
-    "ime": "Viktorija",
-    "prezime": "Talim",
-    "prosek": 7,
-    "grad": "Prilep"
-  },
-  {
     "reden_broj": 15,
     "ime": "Nikola",
     "prezime": "Tasev",
     "prosek": 8,
     "grad": "Kriva Palanka"
+  },
+  {
+    "reden_broj": 16,
+    "ime": "Viktor",
+    "prezime": "Stojanovski",
+    "prosek": 8.7,
+    "grad": "Negotino"
   }
 ]
