@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "ime": "David",
+    "prezime": "Petrovski",
+    "prosek": 9.2,
+    "grad": "Skopje"
+  },
+  {
+    "id": 2,
+    "ime": "Ana",
+    "prezime": "Stojanovska",
+    "prosek": 8.5,
+    "grad": "Bitola"
+  },
+  {
+    "id": 3,
+    "ime": "Stefan",
+    "prezime": "Angelov",
+    "prosek": 7.9,
+    "grad": "Ohrid"
+  },
+  {
+    "id": 4,
+    "ime": "Marija",
+    "prezime": "Jovanova",
+    "prosek": 10,
+    "grad": "Stip"
+  },
+  {
+    "id": 5,
+    "ime": "Igor",
+    "prezime": "Nikolov",
+    "prosek": 6.8,
+    "grad": "Kumanovo"
+  },
+  {
+    "id": 6,
+    "ime": "Elena",
+    "prezime": "Trajkovska",
+    "prosek": 9.5,
+    "grad": "Veles"
+  },
+  {
+    "id": 7,
+    "ime": "Darko",
+    "prezime": "Kostov",
+    "prosek": 8.1,
+    "grad": "Tetovo"
+  },
+  {
+    "id": 8,
+    "ime": "Kristina",
+    "prezime": "Milevska",
+    "prosek": 7.4,
+    "grad": "Prilep"
+  },
+  {
+    "id": 9,
+    "ime": "Filip",
+    "prezime": "Ristevski",
+    "prosek": 8.8,
+    "grad": "Kavadarci"
+  },
+  {
+    "id": 10,
+    "ime": "Simona",
+    "prezime": "Georgieva",
+    "prosek": 9.1,
+    "grad": "Strumica"
+  },
+  {
+    "id": 11,
+    "ime": "Bojan",
+    "prezime": "Ivanov",
+    "prosek": 7.2,
+    "grad": "Gostivar"
+  },
+  {
+    "id": 12,
+    "ime": "Katerina",
+    "prezime": "Vasilevska",
+    "prosek": 9.9,
+    "grad": "Kocani"
+  },
+  {
+    "id": 13,
+    "ime": "Aleksandar",
+    "prezime": "Dimov",
+    "prosek": 8.3,
+    "grad": "Gevgelija"
+  },
+  {
+    "id": 14,
+    "ime": "Nikola",
+    "prezime": "Tasev",
+    "prosek": 8,
+    "grad": "Kriva Palanka"
+  },
+  {
+    "id": 16,
+    "ime": "Viktorija",
+    "prezime": "Talimdzioska",
+    "prosek": "9"
+  },
+  {
+    "id": 19,
+    "ime": "Daniela",
+    "prezime": "Daneloska",
+    "prosek": 8
+  }
+]
